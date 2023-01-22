@@ -1,4 +1,4 @@
-﻿using BunifuAnimatorNS;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
@@ -33,10 +33,6 @@ namespace Presentacion.CodigoCompartido
                 textBox.ForeColor = Color.FromArgb(R, G, B);
             }
 
-            else
-            {
-
-            }
         }
 
         public void Timer(Form form, Timer timer)
